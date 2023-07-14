@@ -129,6 +129,16 @@
     padding: 18px 20px;
     border-radius: 8px;
 }
+.footer-end{
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 70px 2px 2px;
+
+}
+.footer-text{
+    color: #E55473;
+}
 
 
 
