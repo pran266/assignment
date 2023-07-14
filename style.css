@@ -104,6 +104,33 @@
 .image-store-item img {
     width: 250px;
 }
+.subscribe-part{
+    background-image: url(images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    border-radius: 8px;
+    width: 1400px;
+    height: 449px;
+    margin: 60px;
+    padding: 60px;
+}
+   
+.subscribe-field {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subscribe-field input {
+    width: 50%;
+    background: rgb(39 39 39 / 16%);
+    padding: 18px 20px;
+    border-radius: 8px;
+}
+
+
 
 
 
