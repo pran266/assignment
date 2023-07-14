@@ -40,4 +40,39 @@
 .header-img{
     width: 650px;
 }
+.feature-part {
+    text-align: center;
+    margin: 100px 0;
+}
+
+.image-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.image {
+    padding: 50px 50px 0 0;
+    border-radius: 170px 170px 0 0;
+    background: rgb(229 84 115 / 19%);
+    height: 500px;
+}
+
+.image1 {
+    padding: 50px 50px 0 0;
+    border-radius: 170px 170px 0 0;
+    background: rgba(5, 151, 160, 0.15);
+    height: 500px;
+}
+
+.image2 {
+    padding: 50px 50px 0 0;
+    border-radius: 170px 170px 0 0;
+    background: rgba(71, 125, 17, 0.15);
+    height: 500px;
+}
+
+
+
 
