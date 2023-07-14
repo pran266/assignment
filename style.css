@@ -30,8 +30,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: vh;
+    height: 85vh;
     background: rgba(229, 84, 115, 0.18);
+    margin-top: 10px 10px 35px;
    
    
 }
