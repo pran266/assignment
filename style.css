@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.header-text{
+    font-size: 50px;
+}
+
+.description{
+    margin: 15px 0;
+}
+
+.btn {
+    background: #E55473;
+    border: none;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+.btn:hover {
+    background-color: #fd79a8ed;
+}
+.header-part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: vh;
+    background: rgba(229, 84, 115, 0.18);
+   
+   
+}
+
+.header-img{
+    width: 650px;
+}
+
